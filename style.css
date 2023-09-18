@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #A2DBFA;
+}
+
+.btn{
+    background-color: #053742;
+    color:#E8F0F2 ;
+}
+
+.navbar-brand{
+  color: #E8F0F2;
+  font-size: large;
+}
+.navbar-brand:hover{
+    color: #A2DBFA;
+}
+
+nav .container-fluid{
+    padding: 1rem;
+    background-color: #053742;
+    border: 0;
+    outline: 0;
+}
+
+.input{
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+
+.table thead th{
+  color: white;
+  background-color: #053742;
+  padding: 1rem;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+}
+
+th, td{
+    padding: 6px 10px;
+}
+
+
